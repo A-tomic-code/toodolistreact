@@ -1,0 +1,12 @@
+.nav{
+    height: 20vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: url('../../../../assets/header-bg.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 80%;
+}
